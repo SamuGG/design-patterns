@@ -6,6 +6,7 @@
 - [Builder](builder/diagram.md)
 - [Factory Method](factory-method/diagram.md)
 - [Prototype](prototype/diagram.md)
+- [Singleton](singleton/)
 
 ## Structural Design Patterns
 
