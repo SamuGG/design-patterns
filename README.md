@@ -9,6 +9,7 @@
 
 - [Adapter](adapter/diagram.md)
 - [Bridge](bridge/diagram.md)
+- [Composite](composite/diagram.md)
 
 ## Behavioral Design Patterns
 
