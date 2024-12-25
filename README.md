@@ -4,6 +4,7 @@
 
 - [Abstract Factory](abstract-factory/diagram.md)
 - [Builder](builder/diagram.md)
+- [Factory Method](factory-method/diagram.md)
 
 ## Structural Design Patterns
 
