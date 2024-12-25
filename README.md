@@ -27,3 +27,4 @@
 - [Mediator](mediator/diagram.md)
 - [Memento](memento/diagram.md)
 - [Observer](observer/diagram.md)
+- [State](state/diagram.md)

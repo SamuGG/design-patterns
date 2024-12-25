@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Proxy", "pro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Singleton", "singleton\DesignPatterns.Singleton.csproj", "{37EA8AD2-ADA5-483C-A99D-6ED2FEDBB0FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.State", "state\DesignPatterns.State.csproj", "{ED7AA675-2962-49D4-9374-D5D605A279AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{37EA8AD2-ADA5-483C-A99D-6ED2FEDBB0FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37EA8AD2-ADA5-483C-A99D-6ED2FEDBB0FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37EA8AD2-ADA5-483C-A99D-6ED2FEDBB0FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED7AA675-2962-49D4-9374-D5D605A279AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED7AA675-2962-49D4-9374-D5D605A279AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED7AA675-2962-49D4-9374-D5D605A279AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED7AA675-2962-49D4-9374-D5D605A279AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
