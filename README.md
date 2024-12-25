@@ -19,3 +19,4 @@
 
 - [Chain of Responsibility](chain-of-responsibility/diagram.md)
 - [Command](command/diagram.md)
+- [Interpreter](interpreter/diagram.md)
