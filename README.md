@@ -28,3 +28,4 @@
 - [Memento](memento/diagram.md)
 - [Observer](observer/diagram.md)
 - [State](state/diagram.md)
+- [Strategy](strategy/diagram.md)
