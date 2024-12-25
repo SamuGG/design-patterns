@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Mediator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Memento", "memento\DesignPatterns.Memento.csproj", "{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Observer", "observer\DesignPatterns.Observer.csproj", "{F30B314D-18C6-40EE-918B-14EEAD5A49E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +104,9 @@ Global
 		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F30B314D-18C6-40EE-918B-14EEAD5A49E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30B314D-18C6-40EE-918B-14EEAD5A49E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30B314D-18C6-40EE-918B-14EEAD5A49E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30B314D-18C6-40EE-918B-14EEAD5A49E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

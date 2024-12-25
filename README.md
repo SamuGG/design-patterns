@@ -23,3 +23,4 @@
 - [Iterator](iterator/diagram.md)
 - [Mediator](mediator/diagram.md)
 - [Memento](memento/diagram.md)
+- [Observer](observer/diagram.md)
