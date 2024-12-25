@@ -1,0 +1,19 @@
+{
+  "name": "design-patterns",
+  "packageManager": "yarn@4.6.0",
+  "private": true,
+  "description": "Programming design patterns",
+  "repository": {
+    "type": "git",
+    "url": "github:SamuGG/design-patterns"
+  },
+  "scripts": {
+    "postinstall": "husky"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "19.6.1",
+    "@commitlint/config-conventional": "19.6.0",
+    "husky": "9.1.7",
+    "lint-staged": "15.3.0"
+  }
+}
