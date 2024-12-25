@@ -13,6 +13,7 @@
 - [Composite](composite/diagram.md)
 - [Decorator](decorator/diagram.md)
 - [Facade](facade/diagram.md)
+- [Flyweight](flyweight/diagram.md)
 
 ## Behavioral Design Patterns
 

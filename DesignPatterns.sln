@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Facade", "fa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Factory", "factory-method\DesignPatterns.Factory.csproj", "{262640E6-9A5C-465E-B58E-838F8ED664E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Flyweight", "flyweight\DesignPatterns.Flyweight.csproj", "{6572FAF7-661E-44F9-8DFF-3F62FD64D547}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{262640E6-9A5C-465E-B58E-838F8ED664E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{262640E6-9A5C-465E-B58E-838F8ED664E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{262640E6-9A5C-465E-B58E-838F8ED664E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6572FAF7-661E-44F9-8DFF-3F62FD64D547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6572FAF7-661E-44F9-8DFF-3F62FD64D547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6572FAF7-661E-44F9-8DFF-3F62FD64D547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6572FAF7-661E-44F9-8DFF-3F62FD64D547}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
