@@ -21,3 +21,4 @@
 - [Command](command/diagram.md)
 - [Interpreter](interpreter/diagram.md)
 - [Iterator](iterator/diagram.md)
+- [Mediator](mediator/diagram.md)
