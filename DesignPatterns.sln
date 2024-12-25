@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Iterator", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Mediator", "mediator\DesignPatterns.Mediator.csproj", "{7AA90AEB-5931-4440-ADE2-FDD3DE20E877}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Memento", "memento\DesignPatterns.Memento.csproj", "{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{7AA90AEB-5931-4440-ADE2-FDD3DE20E877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AA90AEB-5931-4440-ADE2-FDD3DE20E877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AA90AEB-5931-4440-ADE2-FDD3DE20E877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEAD938-91F1-4D8C-8254-A07FCAF6728C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
