@@ -30,3 +30,4 @@
 - [State](state/diagram.md)
 - [Strategy](strategy/diagram.md)
 - [Template Method](template-method/diagram.md)
+- [Visitor](visitor/diagram.md)

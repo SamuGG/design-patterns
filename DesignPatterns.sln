@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Strategy", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.TemplateMethod", "template-method\DesignPatterns.TemplateMethod.csproj", "{8B9E005C-776F-4AE0-9B44-515B2457B872}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Visitor", "visitor\DesignPatterns.Visitor.csproj", "{79CF13C5-3E0C-48F2-9F9C-035BA91A14A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -144,5 +146,9 @@ Global
 		{8B9E005C-776F-4AE0-9B44-515B2457B872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B9E005C-776F-4AE0-9B44-515B2457B872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B9E005C-776F-4AE0-9B44-515B2457B872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CF13C5-3E0C-48F2-9F9C-035BA91A14A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CF13C5-3E0C-48F2-9F9C-035BA91A14A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CF13C5-3E0C-48F2-9F9C-035BA91A14A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CF13C5-3E0C-48F2-9F9C-035BA91A14A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
