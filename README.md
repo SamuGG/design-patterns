@@ -15,6 +15,7 @@
 - [Decorator](decorator/diagram.md)
 - [Facade](facade/diagram.md)
 - [Flyweight](flyweight/diagram.md)
+- [Proxy](proxy/diagram.md)
 
 ## Behavioral Design Patterns
 
