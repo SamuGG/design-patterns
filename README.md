@@ -3,6 +3,7 @@
 ## Creational Design Patterns
 
 - [Abstract Factory](abstract-factory/diagram.md)
+- [Builder](builder/diagram.md)
 
 ## Structural Design Patterns
 
