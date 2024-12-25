@@ -11,6 +11,7 @@
 - [Bridge](bridge/diagram.md)
 - [Composite](composite/diagram.md)
 - [Decorator](decorator/diagram.md)
+- [Facade](facade/diagram.md)
 
 ## Behavioral Design Patterns
 
