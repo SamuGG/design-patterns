@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Flyweight", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Interpreter", "interpreter\DesignPatterns.Interpreter.csproj", "{71B4B40C-A308-426B-AFE5-2FA5B8D5593F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns.Iterator", "iterator\DesignPatterns.Iterator.csproj", "{5E0676AE-3621-457B-81E5-ACCF941D17A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{71B4B40C-A308-426B-AFE5-2FA5B8D5593F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B4B40C-A308-426B-AFE5-2FA5B8D5593F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B4B40C-A308-426B-AFE5-2FA5B8D5593F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E0676AE-3621-457B-81E5-ACCF941D17A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E0676AE-3621-457B-81E5-ACCF941D17A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E0676AE-3621-457B-81E5-ACCF941D17A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E0676AE-3621-457B-81E5-ACCF941D17A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
