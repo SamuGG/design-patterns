@@ -7,3 +7,4 @@
 ## Structural Design Patterns
 
 - [Adapter](adapter/diagram.md)
+- [Bridge](bridge/diagram.md)
