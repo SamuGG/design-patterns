@@ -9,3 +9,7 @@
 
 - [Adapter](adapter/diagram.md)
 - [Bridge](bridge/diagram.md)
+
+## Behavioral Design Patterns
+
+- [Chain of Responsibility](chain-of-responsibility/diagram.md)
